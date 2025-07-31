@@ -1,4 +1,4 @@
-int q =1;
+int q =10;
 int w =10;
 int z=20;
 print(q+w);
